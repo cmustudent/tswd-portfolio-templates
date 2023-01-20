@@ -56,7 +56,7 @@ You can build tables like this:
 
 | Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
 |--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow the government |
+| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
 | Howard       | dog         | You                 | You    | You             | Eating                              |
 | Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
 
