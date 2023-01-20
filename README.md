@@ -1,5 +1,9 @@
 # TSWD-portfolio-templates
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
+Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+
+- Web page URL: https://cmustudent.github.io/TSWD-portfolio-templates/
+- This repository: https://github.com/cmustudent/TSWD-portfolio-templates/
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -9,6 +13,12 @@ Hi!  I really like data.  And I like visualizations.  So I guess you can say tha
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+
+1. List item #1
+2. List item #2
+3. List item #3
+
+or...
 
 - List item #1
 - List item #2
