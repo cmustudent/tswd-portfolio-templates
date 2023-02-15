@@ -13,7 +13,16 @@ Text here!
 Text here!
 
 ## Interview script
-> List the questions you asked, and the goals from your research.
+> List the goals from your research, and the questions you intend to ask. 
+
+Text here!
+
+| Goal | Questions to Ask |
+|------|------------------|
+|      |                  |
+|      |                  |
+|      |                  |
+
 
 Text here!
 
@@ -22,8 +31,27 @@ Text here!
 
 Text here!
 
+| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+|-------------------------|--------------------------------|-------------|-------------|
+| Question you asked here | Insightful feedback            |             |             |
+|                         |                                |             |             |
+|                         |                                |             |             |
+
+
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
+
+Text here!
+
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
+
+> ...include any final thoughts you have here. 
 
 Text here!
 
