@@ -1,8 +1,8 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
+It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
@@ -103,3 +103,12 @@ Any of those formats will work. Here's some examples of working links:
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+
+### References
+
+List any references you used here. 
+
+### AI acknowledgements
+
+If you used AI to help you complete this assignment (within the parameters of the instruction guidelines), detail your use of AI for this assignment here.
+
