@@ -34,3 +34,9 @@ Text here...
 > In a few sentences, you should document how you plan on completing your final project. 
 
 Text here...
+
+## References
+_List any references you used here._
+
+## AI acknowledgements
+_If you used AI to help you complete this assignment (within the parameters of the instruction guidelines), detail your use of AI for this assignment here._
