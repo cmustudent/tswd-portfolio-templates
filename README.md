@@ -104,11 +104,9 @@ Make sure to check these from your publicly accessible URL to make sure they're 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
 
-### References
+## References
+_List any references you used here._
 
-List any references you used here. 
-
-### AI acknowledgements
-
-If you used AI to help you complete this assignment (within the parameters of the instruction guidelines), detail your use of AI for this assignment here.
+## AI acknowledgements
+_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
