@@ -11,22 +11,34 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Mitun Adenuga (he/him), and I am currently an accelerated Master of Information Systems student at Carnegie Mellon University. I previously earned my B.S. in Information Systems from the same institution. My academic journey has been driven by a passion for UI/UX design, product management, business strategies, and leveraging coding and technology to solve complex problems.
+
+I reside in Maryland and will be returning there for work after graduating in May. I am excited to join the Deloitte office in Arlington, Virginia, where I will continue my professional journey. My connection with Deloitte is strong, having interned at their Arlington office for two summers within the GPS sector of the Consulting division. During my internships, I collaborated with my team to develop solutions that automated processes and enhanced efficiency for our clients.
+
+In the summer of 2024, I expanded my horizons by interning at Deloitte Nigeria on the Strategy and Development Team. This experience allowed me to contribute to new AI initiatives aimed at fostering innovation within Nigeria and across Africa. These diverse experiences have equipped me with a unique perspective and a robust skill set that I am eager to apply in my future endeavors.
+
+I am currently enrolled in the "Telling Stories with Data" class to further enhance my ability to create compelling data visualizations. This course is crucial for me as it focuses on modernizing charts and graphs to effectively communicate data-driven stories. By mastering these skills, I aim to present data in a way that is not only visually appealing but also meaningful and impactful. Understanding how to convey complex information clearly and engagingly is essential in today's data-driven world, and I am excited to apply these techniques in my future projects and professional roles.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+In the "Telling Stories with Data" course, I am eager to deepen my understanding of data visualization techniques and tools. My goal is to learn how to create visually compelling and meaningful charts that effectively communicate data-driven stories. This skill is essential for my future career, as it will enable me to present complex information clearly and engagingly.
 
-1. List item #1
-2. List item #2
-3. List item #3
+Specifically, I hope to learn:
 
-or...
+- Advanced data visualization techniques
+- Best practices for designing interactive and user-friendly charts
+- How to use various data visualization tools and software
+- Strategies for effectively communicating data insights to diverse audiences
+- The principles of storytelling with data to make impactful presentations
 
-- List item #1
-- List item #2
-- List item #3
+Upon graduating, I plan to apply these skills in my role at Deloitte, where I will be working in the Arlington, Virginia office. I aim to leverage data visualization to enhance the solutions we provide to our clients, making data more accessible and actionable. Additionally, I am excited to continue exploring new AI initiatives and contribute to innovative projects that drive efficiency and growth.
+
+
 
 # Portfolio
+Crafting for Clarity - Week Two (Discussion/Workbook)
+Working with Tableau: Visualizing Government Debt
+Part I: Final project
+
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
