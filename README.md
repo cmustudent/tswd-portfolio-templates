@@ -8,17 +8,22 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU! Data visualization is an important tool for companies, teams, and across professional spaces. Dataviz is essential for transforming datasets into effective and enhanced graphics that can drive decision-making, navigate change management, and develop strategic inititaives. By enhancing comprehension and accessibility for complex ideas, systems, and data forms, we can work together to tell a story. My portfolio will be made of in-class work and be used to make a positive impact through identifying patterns and trends in my profession, enrollment management.  
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+## Drucella Garcia, she/her
+Hola! My name is Drucella and I am an MPM '26 Heinz student working in the Office of Undergraduate Admission. 
+I have worked at Carnegie Mellon University for six years and now serve as an Associate Director of Admission. I oversee access-focused and inclusive recruitment initiatives, collaborating on efforts related to admission travel, local prospective student engagement events and community-based organization relationship development. I lead our events like College Success 101 and our annual counselor fly-in college access day events. In 2024, I spent eight months working at the CMU campus in Doha, Qatar.
+
+I am currently pursuing my Master's in Public Management with a specialization in leadership and strategy. In my spare time, Drucella enjoys spending time with her goldendoodle and family, traveling the world, attending k-pop concerts and catching up on k-dramas. Of course, I also enjoy data!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+## I'm always a scholar at heart. 
+I look forward to classes and experiences that encourage me to think differently about processes and data systems. I also look forward to challenging myself to create new and efficient ways to problem solve. Which is why, Telling Stories with Data is essential to my graduate experience here at Heinz. I hope to learn: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to creatievly use my skills in data visualization to take raw data and transform the set into a story and actionable items to improve strategic access initiatives, improve recruitment planning, analyze the demographic cliff and new trends, and track the enrollment funnel
+2. How to quickly identify visualizations that would be useful in the enrollment management profession that could also be used in professional conferences and presentations
+3. Design and critique data to highlight essential trends, points, and areas of impact that draw the viewer in but maintains clarity and accessibility
 
 or...
 
@@ -28,23 +33,22 @@ or...
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 2: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
+### Part I
+### Part II
+### Part III
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
 
