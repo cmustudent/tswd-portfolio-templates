@@ -11,25 +11,34 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Huining. I’m currently a graduate student at Carnegie Mellon University.  
+My academic background is related to data, technology, and digital systems, and I’m interested in how data can be used to support better decisions and communicate ideas clearly.
+
+I have always been interested in the way information can be presented visually. Charts and visualizations can make complex data easier to understand and can also help tell compelling stories. Through this course, I hope to improve both my technical and analytical skills in creating effective data visualizations.
+
+Outside of class, I enjoy exploring new technologies and learning different ways to analyze and present information.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Through this course, I hope to learn how to design better data visualizations that are clear, informative, and visually engaging.
 
-1. List item #1
-2. List item #2
-3. List item #3
+Specifically, I would like to:
 
-or...
+- Understand the principles of effective data storytelling  
+- Learn how to choose the right visualization for different types of data  
+- Improve my ability to critique and evaluate visualizations  
+- Develop practical skills for creating clear and compelling charts
 
-- List item #1
-- List item #2
-- List item #3
+In the future, I believe these skills will help me communicate insights more effectively in both academic and professional settings.
+
 
 # Portfolio
+This section will contain links to my assignments and projects for this course.
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+## Assignment: Data Visualization Critique
+This assignment focuses on analyzing an existing data visualization and discussing its strengths and weaknesses.
+
+## Assignment: Critique by Design
+In this project, I will redesign a data visualization based on the principles discussed in class.
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -38,6 +47,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
+My final project will explore a dataset and present insights through a series of well-designed visualizations.
+
+More details and updates will be added as the semester progresses.
+
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
