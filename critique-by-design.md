@@ -1,59 +1,52 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ckwarisi.github.io/Chevonne-Kwarisiima-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Global GDP Rankings
+For this assignment, I redesigned a visualization of the Top 10 GDPs ranked. 
 
 ## Step one: the visualization
+The [original version](https://makeovermonday.vercel.app/submissions/2026/34) was very cut and dry. Just a table showing ranked GDPs and share of global GDP. Given that the original visualization is on a page that is targeted towards people, seemingly professionals looking for statistics of different kinds, I understood the need for simplicity but really wanted to play around with creativity. 
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I chose this visualization because of my interest in economic development.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+More than anything, I felt that the visualization did not use any tools to improve comprehension. There was no color and no visual elements. Yes the audience is most likely technical professionals looking for specific information, but the absolute lack of visual elements did not properly express the magnitude of GDP share held by the top 10 countries and the takeaways. I wanted to help the audience visualize and properly understand just how much GDP wealth these 10 countries have in comparison to all other countries of the world. 
 
 ## Step three: Sketch a solution
+My initial ideas were pretty lofty. The central theme was to use a dollar bill as a visual representation of millions or billions of dollars to show just how much each country has. 
+
+The other challenge was visualizing GDP share held by each country. 
+
+I chose to create three rough draft ideas. 
+
+![Initialviz](Initialviz.jpg)
 
 ## Step four: Test the solution
+I tested my solution amongst four peers pursuing Masters degrees at Heinz college. Because I wanted to take a more creative approach, I was scared I was created what I wanted not what the audience needed. 
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+All four of my peer reviewers seemed to point to one thing: Simplify! Simplify! Simplify!
 
-Questions to ask (modify these for your own interviews): 
+*Ernest asked whether my use of money as a visual symbol was necessary for the audience in question. It would be great for students in elementary school but for a technical audience? 
 
-- Can you tell me what you think this is?
+*Ananda expressed concern with the tree map and warned it could be confusing if it is only focused on the top 10 questions as tree maps usually show parts of a whole. Only showing the 10 could misrepresent the 10 as a whole. 
 
-- Can you describe to me what this is telling you?
+Outside of these particular points, the suggestion was to use a more familiar graph type and use green as a color to indicate money.
 
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+*pseudonym
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+So I went back to the drawing board with the realization that in this case, less is more. 
 
-## References
-_List any references you used here._
+I fixed my sights on a [dashboard](https://public.tableau.com/views/ChevonneKwarisiima_MakeoverMondayFinal/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  with a tree map and a bar chart. Both very simple and yet effective. 
+
+For the tree map, I created a group within Tableau for 'All other countries'. This allowed me to include their share of GDP without over crowding the tree map. Noticeably this is the largest share, but in context that section is an aggregation of GDP data from more than 180 countries. 
+
+For the Bar graph, I ranked the GDP in descending order and included labels at the end to make readability easy. 
+
+The dashboard has a filter to enable easy 'zooming in' on one or a few countries. 
+
+![Dashboard](Dashboard.jpg)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+I did not use any AI in the making of these visualizations
